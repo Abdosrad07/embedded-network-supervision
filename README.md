@@ -98,7 +98,7 @@ A demonstration video showing:
 - Real-time parsing
 - Live graphical monitoring
 
-(Video link here)
+`https://youtube.com/shorts/jBxEJeuHT6s?si=mJP4Nht8rCX5Kly6`
 
 ---
 
@@ -129,3 +129,4 @@ This project is licensed under the MIT License.
 
 ## Author
 Embedded Systems & Telecommunications Enginnering Student
+
