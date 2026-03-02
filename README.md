@@ -29,7 +29,7 @@ Frame format:
 -   Extracts DATA field
 -   Stores values in a circular buffer
 -   Computes a moving average
--   Detcts threshold anomalies
+-   Detects threshold anomalies
 -   Displays real-time graph
 
 ---
